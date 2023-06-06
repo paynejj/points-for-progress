@@ -23,7 +23,7 @@ This [RAPID](https://rapid.cincinnati.ventures/) Remix project was scaffolded wi
     pnpm install
     ```
 
-3. Run the frontend servers:
+3. Run the frontend/backend servers:
     - **Automatically** (with tmux)
 
         ```bash
