@@ -24,13 +24,9 @@ This [RAPID](https://rapid.cincinnati.ventures/) Remix project was scaffolded wi
     ```
 
 3. Run the frontend/backend servers:
-    - **Automatically** (with tmux)
+    - **Automatically** by executing run.sh (requires tmux)
 
-        ```bash
-        bash run.sh
-        ```
-
-    - Manually
+    - **Manually**
 
         First:
 
