@@ -44,9 +44,6 @@ This [RAPID](https://rapid.cincinnati.ventures/) Remix project was scaffolded wi
         rapid run
         ```
 
-4. Compilation issues? You may need to manually install rapid_web,
-just clone the [rapid-web crate](https://github.com/Cincinnati-Ventures/rapid) into the path specified in **Cargo.toml**
-
 </br>
 
 > Refer to our docs for any assistance: <https://rapid.cincinnati.ventures>
