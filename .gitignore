@@ -18,3 +18,4 @@ rapid/
 
 #sqlls config
 .sqllsrc.json
+pfp/.sqllsrc.json
