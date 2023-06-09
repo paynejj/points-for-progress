@@ -13,9 +13,9 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
-#temporary manual installation of rapid_web
-rapid/
-
-#sqlls config
-.sqllsrc.json
-pfp/.sqllsrc.json
+# Build artifacts
+pfp/.cache
+pfp/.env
+pfp/build
+pfp/node_modules
+pfp/public

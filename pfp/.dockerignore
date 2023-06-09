@@ -1,4 +1,8 @@
-./pfp/target
-./pfp/node_modules
-./pfp/.env
-
+./target/
+./.cache/
+./node_modules/
+./.eslintrc.js
+./.gitignore
+./.sqllsrc.json
+./tailwind.config.ts
+./tsconfig.json
