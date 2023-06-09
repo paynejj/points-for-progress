@@ -22,9 +22,9 @@ export function links() {
   return [{ rel: "stylesheet", href: styles }];
 }
 
-export const loader: LoaderFunction = (args) => {
-  return rootAuthLoader(args);
-};
+// export const loader: LoaderFunction = (args) => {
+// return rootAuthLoader(args);
+// };
 
 function App() {
   return (
@@ -49,4 +49,4 @@ export default App;
 // export default ClerkApp(App);
 
 // Refer to this documentation for more info on how to use Clerk with Remix: https://clerk.com/docs/quickstarts/get-started-with-remix
-export const CatchBoundary = ClerkCatchBoundary();
+// export const CatchBoundary = ClerkCatchBoundary();
